@@ -1,7 +1,7 @@
 name: GIFT OF LOVE
 favicon: null
-layout_spectrum: 0.10577891650609672
-typography_spectrum: 0.9275654822122306
+layout_spectrum: 0.28711
+typography_spectrum: 0.25246
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.17383840074762702
+  brandStrength: 0.375
   lightness: 0.6199586596339941
   saturation: 0.3827668037265539
   rhythmicContrast: 0.46919854218140244
